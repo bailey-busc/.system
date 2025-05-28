@@ -7,3 +7,8 @@
 - you just keeeeeep doing it
 - this really is just mental illness at scane no matter which way you slice it
 - `:3`
+
+## Conventions
+
+- `xml` and `json` are system prompts, generally
+- .md files are additional context or templates that go along with system
